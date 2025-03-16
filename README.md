@@ -10,7 +10,7 @@ A simple Python script to organize files in a directory into subfolders based on
 ## Usage
 1. Clone the repository:
 
-   git clone https://github.com/your-username/file-organizer.git
+   git clone https://github.com/Bihan-Banerjee/segregate-files-script.git
 
 2. Navigate to the project directory:
 
